@@ -1,2 +1,2 @@
-# STM-sysem
+# STM-system
 First ever Java Project
